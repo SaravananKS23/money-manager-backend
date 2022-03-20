@@ -1,26 +1,7 @@
-# Expense Tracker (MERN)
+Frontend
+https://github.com/SaravananKS23/money-manager-frontend
+https://money-manager-reactapp.netlify.app/
 
-> Full stack expense tracker
-
-## Usage
-
- npm install
- cd client npm install
- cd ..
- 
- # Run front and backend
- npm run dev
- 
- # Backend only
- npm run server
- 
- # Frontend only
- npm run client
- 
- # Build client
- cd client
- npm run build
- 
- # Prod
- npm start
-```
+Backend
+https://github.com/SaravananKS23/money-manager-backend
+https://money-manager-23.herokuapp.com/
